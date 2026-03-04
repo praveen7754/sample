@@ -1,14 +1,2 @@
-2️⃣ What is git merge
-
-git merge combines changes from one branch into another.
-
-Example
-
-Branches:
-
-main
-dev
-
-Switch to main:
-
-git checkout main
+hi hello 
+good evening
